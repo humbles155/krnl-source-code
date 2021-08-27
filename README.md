@@ -1,3 +1,5 @@
+# HMU on discord if it gets updated or patched FiveMen#0005
+
 # krnl-source-code
 felt like cracking it so i did 
 
